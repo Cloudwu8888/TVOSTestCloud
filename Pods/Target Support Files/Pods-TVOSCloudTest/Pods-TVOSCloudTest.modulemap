@@ -1,0 +1,6 @@
+framework module Pods_TVOSCloudTest {
+  umbrella header "Pods-TVOSCloudTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
